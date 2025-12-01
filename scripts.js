@@ -20,7 +20,7 @@ class GoogleTranslator {
     it: "it-IT",
     pt: "pt-PT",
     ru: "ru-RU",
-    js: "ja-JP",
+    ja: "ja-JP",
     zh: "zh-CN",
   };
   static DEFAULT_SOURCE_LANGUAGE = "es";
